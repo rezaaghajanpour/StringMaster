@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f92a4b2e-db2d-4e6a-b547-75c823420e47" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Base Structure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base Structure/src/main/java/Advanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/src/main/java/Advanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base Structure/src/main/java/Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/src/main/java/Warmup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base Structure/src/test/java/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/src/test/java/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base Structure/target/classes/Advanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/target/classes/Advanced.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base Structure/target/classes/Warmup.class" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/target/classes/Warmup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base Structure/target/test-classes/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Base Structure/target/test-classes/StringTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2dEXNEBAb5AMzDXZc8NIPWLeQi3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/JAVA/StringMaster",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f92a4b2e-db2d-4e6a-b547-75c823420e47" name="Changes" comment="" />
+      <created>1709574168753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709574168753</updated>
+      <workItem from="1709574169835" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Base Structure/src/test/java/StringTest.java</url>
+          <line>26</line>
+          <properties class="StringTest" method="wordCensor_test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
